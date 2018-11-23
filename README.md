@@ -1,6 +1,6 @@
 FINGERPRINT DOOR LOCK CODE.
 
-Equipments used in project: Arduino nano,R305 fingerprint sensor module,motors,rack and pinion mechanism for lock.
+Equipments used in project: Arduino nano,R305 fingerprint sensor module,motors,rack and pinion mechanism for lock and an L298N motor driver.
 
 Coding done in arduino IDE.
 
